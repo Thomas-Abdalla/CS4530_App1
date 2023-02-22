@@ -1,4 +1,4 @@
-# CS4530_App1
+# Simple_Android_App1
 
 The purpose of this repository is to demonstrate code of a simple android app utilizing intent passing between two seperate activities.
 This was originally a small project for experimenting with android studio, and now is being stored in a public repository to act as an example for both myself and
